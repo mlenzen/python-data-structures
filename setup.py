@@ -6,7 +6,7 @@ from setuptools import setup
 setup(
 		name='data-structures',
 		packages=[],
-		version='0.1.4',
+		version='0.1.5',
 		description=(
 			'Extra Python Data Structures - bags (multisets) and setlists (ordered'
 			' sets)'
