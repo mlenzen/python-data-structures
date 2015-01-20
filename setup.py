@@ -17,7 +17,7 @@ setup(
 		url='https://github.com/mlenzen/python-data-structures',
 		keywords=['collections', 'bag', 'multiset', 'setlist', 'ordered set', 'unique list'],
 		classifiers=[
-			'Development Status :: 4 - Beta',
+			'Development Status :: 7 - Inactive',
 			'Intended Audience :: Developers',
 			'License :: OSI Approved :: Apache Software License',
 			'Operating System :: OS Independent',
